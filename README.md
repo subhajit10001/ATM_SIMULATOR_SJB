@@ -1,4 +1,4 @@
-Defining the class or method for the ATM simulator functionality
+1-Defining the class or method for the ATM simulator functionality
 
 Creating an ATM simulator involves designing a class with methods to handle various functionalities like account balance inquiry, withdrawal, deposit, and transfer
 
