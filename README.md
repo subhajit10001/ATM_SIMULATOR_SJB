@@ -9,9 +9,9 @@ Deposit: The deposit method adds a specified amount to the balance if the amount
 Withdraw: The withdraw method subtracts a specified amount from the balance if the amount is positive and there are sufficient funds.
 Transfer: The transfer method moves a specified amount to another ATM instance if the amount is positive and there are sufficient funds.
 Transaction History: The get_transaction_history method returns a list of all transactions made.
+class ATM: 
+
 class ATM:
-    
-    
     def __init__(self, balance=0):
         self.balance = balance
         self.transaction_history = []
